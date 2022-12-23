@@ -1,5 +1,8 @@
 # Responsive Portfolio
 
+## Check It Out ##
+You can view my deployed portfolio [HERE](https://cbarber1984.github.io/updated-portfolio/)
+
 Through this project, I learned how to utilize JavaScript to alter the display of a website by changing the class assigned to various div elements.
 
 I also wanted to complete this project to gain experience with the concept of a dark and light theme within the same site.
